@@ -1,7 +1,7 @@
 ﻿double result;
 Console.Write("Введите первое число:");
 double first = Convert.ToDouble(Console.ReadLine());
-Console.Write("Введите введите второе число:");
+Console.Write("Введите второе число:");
 double second = Convert.ToDouble(Console.ReadLine());
 Console.Write("Определите действие между числами (+, -, *, /, %):");
 string operation = Console.ReadLine();
