@@ -1,0 +1,8 @@
+﻿################################################################################
+# Данный GITIGNORE-файл был автоматически создан Microsoft(R) Visual Studio.
+################################################################################
+
+/ASCON_C#/lesson_1/ConsoleApp1/.vs/ConsoleApp1/FileContentIndex
+/ASCON_C#/lesson_1/ConsoleApp1/.vs
+/ASCON_C#/lesson_1/ConsoleApp1/bin/Debug/net8.0
+/ASCON_C#/lesson_1/ConsoleApp1/obj
